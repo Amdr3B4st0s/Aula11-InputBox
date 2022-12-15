@@ -1,0 +1,14 @@
+body{
+    color: darkblue;
+    background-image: url(https://www.patternpictures.com/wp-content/uploads/Kristal-subtle-glass-white-background-pattern-patternpictures-0220.png);
+    text-align: center;
+}
+h1{
+    color: rgba(0, 0, 0, 0);
+}
+#ativo{
+    color:darkblue;
+}
+hr{
+    width: 20%;
+}
